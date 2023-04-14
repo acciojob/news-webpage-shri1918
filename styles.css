@@ -2,23 +2,27 @@
 body{
 	background-color: #f5f5f5;
 }
-h1{font-size:20px;text-align:center;}
+h1{font-size:2.5vw;text-align:center;}
 .second{
-	width:150px;
-
+	width:27%;
+height:10%;
 	margin:15px;
 	border-radius:10px;
 	background-color:white;
 	float:left;
 }
 .i{
-	width:150px;height:125px;display: block;
+	display: block;
 	margin:5px;
 	padding:5px;
-	
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .fo{
-	width:168px;
+	width:27%;
+	height:20%;
 	border-radius:10px;
 	margin:15px;
 	float:left;
@@ -29,9 +33,10 @@ h1{font-size:20px;text-align:center;}
 	border-radius:10px;
 	padding:5px;
 	text-align:center;
-	width:250px;
+	width:35%;
     float:left;
-	height:200px;
+	height:30%;
+	
 	
 }
 .p1{
