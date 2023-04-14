@@ -12,17 +12,17 @@ height:10%;
 	float:left;
 }
 .i{
-	display: block;
+	
 	margin:5px;
 	padding:5px;
 	 display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 .fo{
 	width:27%;
-	height:20%;
+	height:30%;
 	border-radius:10px;
 	margin:15px;
 	float:left;
@@ -41,6 +41,7 @@ height:10%;
 }
 .p1{
 	color:white;
+	
 	text-align:center;
 	padding:22px;
 	font-size:30px;
@@ -52,4 +53,5 @@ ul{
 .head{
 	background-color : #011e29;
 	height:80px;
+	margin:1px;
 }
