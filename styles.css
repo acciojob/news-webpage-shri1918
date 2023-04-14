@@ -9,10 +9,10 @@ h1{font-size:2.5vw;text-align:center;}
 .second{
 	width:27%;
 height:10%;
-	margin:15px;
+	
 	border-radius:10px;
-	background-color:white;
-	float:left;
+	
+	float:left;margin-top:15px;background-color:white;margin-right:10px;
 }
 li{
 	font-size:1.5vw;text-align:center;
@@ -20,7 +20,7 @@ li{
 .i{
 	
 	margin:5px;
-	padding:5px;
+	padding:0.5vw;
 	 display: block;
   margin-left: auto;
   margin-right: auto;
@@ -31,11 +31,11 @@ li{
 	height:80%;
 	border-radius:10px;
 	padding-bottom:10px;
-	margin:15px;
+	margin-top:15px;
 	float:left;
 	text-align:center;background-color:white;
 }
-.th{margin:15px;background-color:white;
+.th{margin-top:15px;background-color:white;margin-right:10px;
 	height:200px;
 	border-radius:10px;
 	padding:5px;
@@ -43,6 +43,7 @@ li{
 	width:35vw;
     float:left;
 	height:30%;
+	
 	
 	
 }
