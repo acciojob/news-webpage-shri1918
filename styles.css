@@ -2,6 +2,9 @@
 body{
 	background-color: #f5f5f5;
 }
+header{
+	text-align:center;
+}
 .l{
 	font-size:1.5vw;text-align:center;
 }
@@ -26,7 +29,7 @@ li{
   margin-right: auto;
   width: 22vw;
 }
-.fo{
+.pictorial-news-section{
 	width:25vw;
 	height:80%;
 	border-radius:10px;
